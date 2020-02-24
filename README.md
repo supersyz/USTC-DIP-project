@@ -1,7 +1,7 @@
 # USTC-DIP-project
 digital-image-processing project of USTC postgraduate course.
 
-contents are put in the dev branch
+contents are put in the master branch
 
 总共有三次作业，其中第一次包含了代码作业。
 
